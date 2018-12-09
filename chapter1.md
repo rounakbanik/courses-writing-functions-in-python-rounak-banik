@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Using Positional, Keyword and Default Arguments
 
 ```yaml
 type: VideoExercise
